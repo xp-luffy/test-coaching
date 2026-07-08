@@ -14,3 +14,4 @@
 
 - Project now has documented planning artifacts: PRD, architecture, and sprint plans available
 - Database schema migration has been added to the project
+- AGENTS.md (Launchpad memory) has been synced in recent commit
